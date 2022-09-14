@@ -43,7 +43,8 @@ public class Basics {
         /* TODO (Task 1): Write a line of code below that prints the string
          *                Hello World!
          */
-        System.out.println("Hello World!");
+
+         System.out.println("Hello World!");
 
 
         /* 4. In Python, we could declare variables using a simple assignment
@@ -63,7 +64,7 @@ public class Basics {
          *                value 100.
          */
 
-        int my_variable = 100;
+         int my_variable = 100;
 
 
 
@@ -71,7 +72,7 @@ public class Basics {
          * you should see the message "my_variable's value is 100" if you run
          * this file!
          */
-        System.out.println("my_variable's value is " + my_variable);
+         System.out.println("my_variable's value is " + my_variable);
 
         /* 5. In Python, we could write a loop that iterates using:
          *        for <variable> in <values>:
@@ -102,7 +103,7 @@ public class Basics {
          * Current count: 0
          */
 
-        for(int i = 10; i >= 0; i--){
+        for(int i = 10; i >= 0; i-= 1){
 
             System.out.println(i);
 
