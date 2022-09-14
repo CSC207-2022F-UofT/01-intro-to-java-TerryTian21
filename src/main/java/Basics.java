@@ -105,10 +105,9 @@ public class Basics {
 
         for(int i = 10; i >= 0; i-= 1){
 
-            System.out.println(i);
+            System.out.println("Current count: " + i);
 
         }
-
 
     }
 
